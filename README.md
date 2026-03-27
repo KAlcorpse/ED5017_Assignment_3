@@ -6,7 +6,8 @@ This repository contains MATLAB implementations and corresponding outputs for As
 
 ## Project Structure
 
-DSP-Assignment-3/
+```
+ED5017_Assignment_3/
 ├── README.md
 ├── Q6/
 │   ├── q6.m
@@ -18,6 +19,6 @@ DSP-Assignment-3/
 │   ├── q8.m
 │   ├── voice.wav
 │   └── results/
-
+```
 ---
 
