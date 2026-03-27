@@ -1,27 +1,23 @@
-# DSP Assignment 3 – Results
+# ED5017 Assignment 3 – Results
 
-This repository contains MATLAB implementations and outputs for Assignment 3.
+This repository contains MATLAB implementations and corresponding outputs for Assignment 3.
+
+---
+
+## Project Structure
 
 DSP-Assignment-3/
-│── README.md
-│
+├── README.md
 ├── Q6/
 │   ├── q6.m
-│   └── Results as images
-│
+│   └── results/
 ├── Q7/
 │   ├── q7.m
-│   └──  Results as images
-│
+│   └── results/
 ├── Q8/
 │   ├── q8.m
 │   ├── voice.wav
-│   └──  Results as images
+│   └── results/
 
-## Notes
-
-- All scripts are written in MATLAB
-- Audio file `voice.wav` used for Q8
-- Plots generated using built-in functions (`freqz`, `fft`, `zplane`, `grpdelay`)
-  
 ---
+
