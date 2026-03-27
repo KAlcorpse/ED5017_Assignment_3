@@ -1,2 +1,11 @@
-# ED5017_Assignment_3
-ED5017: Digital Signal Processing for Engineering Design --  Jan - May 2026 -- Assignment 3
+# DSP Assignment 3 – Results
+
+This repository contains MATLAB implementations and outputs for Assignment 3.
+
+## Notes
+
+- All scripts are written in MATLAB
+- Audio file `voice.wav` used for Q8
+- Plots generated using built-in functions (`freqz`, `fft`, `zplane`, `grpdelay`)
+  
+---
